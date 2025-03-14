@@ -43,7 +43,9 @@
 
 ## Используемый стэк
 
-...
+- Git | Github
+- PostgreSQL
+- Docker
 
 
 
