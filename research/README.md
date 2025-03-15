@@ -22,18 +22,20 @@
 
 | id | name : varchar(255) | category_sale : json_data | interest_on_loan : smallint | category_cashback : json_data | bank : varchar(255) | rating : smallint |
 
-
 Таблица Пользователей
 
 | id | name : varchar(255) | money : integer | cashback_importance : smallint |
 
+Таблица транзакций
 
-Таблица товаров
+| id | name : varchar(255) |
+
+Таблица категорий
 
 | id | name : varchar(255) |
 
 
-## Описание алгоритма
+## Описание модели
 
 ...
 
